@@ -1,0 +1,20 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "from": "Istanbul",
+      "to": "Ankara",
+      "departureDate": "2023-06-05",
+      "returnDate": "2023-06-10",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "from": "Istanbul",
+      "to": "Izmir",
+      "departureDate": "2023-06-07",
+      "returnDate": "2023-06-12",
+      "price": 200
+    }
+  ]
+}
